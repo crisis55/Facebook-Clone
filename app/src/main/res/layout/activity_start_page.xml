@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/title"
-    tools:context="tutorial.android.bkav.com.facebookclone.StartPageActivity">
+    tools:context="tutorial.android.bkav.com.facebookclone.activity.StartPageActivity">
 
     <Button
         android:id="@+id/already_have_an_account_button"

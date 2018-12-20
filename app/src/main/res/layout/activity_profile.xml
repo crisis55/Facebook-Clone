@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/login"
-    tools:context="tutorial.android.bkav.com.facebookclone.ProfileActivity">
+    tools:context="tutorial.android.bkav.com.facebookclone.activity.ProfileActivity">
 
     <ImageView
         android:id="@+id/profile_visit_user_image"

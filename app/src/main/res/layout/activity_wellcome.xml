@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/title"
-    tools:context="tutorial.android.bkav.com.facebookclone.WellcomeActivity">
+    tools:context="tutorial.android.bkav.com.facebookclone.activity.WellcomeActivity">
 
 
 </RelativeLayout>

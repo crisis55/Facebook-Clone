@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/title2"
-    tools:context="tutorial.android.bkav.com.facebookclone.RegisterActivity">
+    tools:context="tutorial.android.bkav.com.facebookclone.activity.RegisterActivity">
 
     <include
         android:id="@+id/register_toolbar"
